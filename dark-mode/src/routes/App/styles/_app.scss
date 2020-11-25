@@ -22,7 +22,14 @@
       outline: none;
     }
   }
-
+  .dark-mode {
+    background-color: #FFA500;
+    color: #999;
+  }
+  .light-mode{
+    background-color: #fff;
+    color: #333;
+  }
   .buttons > .button {
     height: 30px;
     width: 100px;
